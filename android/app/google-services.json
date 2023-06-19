@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51469879162",
+    "project_id": "filmbilgi2",
+    "storage_bucket": "filmbilgi2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51469879162:android:688a3778b6a7d462a4b8c3",
+        "android_client_info": {
+          "package_name": "com.example.film_bilgi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51469879162-1m1kqspjm6pqfejl3b7fd0vnvlc6c09r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA6ZGADazr_kz_4V7w-DCgqcY3U5CyJjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51469879162-1m1kqspjm6pqfejl3b7fd0vnvlc6c09r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
