@@ -14,6 +14,6 @@ Merhaba değerli bağlantılarım, bugün sizlere geliştirmekte olduğum kullan
 
 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- Mobil uygulamamı Flutter ile geliştirdim.
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
