@@ -3,7 +3,7 @@
 ![Ekran Alıntısı](https://github.com/eywtuncay/Dizi_Film_Etkilesim/assets/90053356/fc25a196-8da8-496f-8052-7fc1aeeb88f6)
 
 
-Bu uygulama, kullanıcıların dizi ve filmler hakkında kapsamlı bilgi edinmelerini sağlayan, içerik keşfetmelerine yardımcı olan, incelemeleri okumalarını ve puanlamaları gözden geçirme imkanı sunan, aynı zamanda kullanıcıların kendi puanlarını ve yorumlarını eklemelerine olanak tanıyan harika bir platformdur. Amacım, sinema ve dizi tutkunlarının istedikleri içerikleri daha kolay bulmalarını ve deneyimlemelerini sağlamaktır. Bu uygulama ile sinema ve dizi dünyasında etkileşimli bir deneyim sunmayı hedeflemekteyim.
+Bu uygulama, kullanıcıların dizi ve filmler hakkında kapsamlı bilgi edinmelerini sağlayan, içerik keşfetmelerine yardımcı olan, incelemeleri okumalarını ve puanlamaları gözden geçirme imkanı sunan, aynı zamanda kullanıcıların kendi puanlarını ve yorumlarını eklemelerine olanak tanıyan bir platformdur. Amacım, sinema ve dizi tutkunlarının istedikleri içerikleri daha kolay bulmalarını ve deneyimlemelerini sağlamaktır. Bu uygulama ile sinema ve dizi dünyasında etkileşimli bir deneyim sunmayı hedeflemekteyim.
 
 - Mobil uygulamamı Flutter ile geliştirdim.
 - Login-Register işlemlerini Firebase Authentication ile gerçekleştirdim.
