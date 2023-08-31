@@ -12,5 +12,4 @@ Bu uygulama, kullanıcıların dizi ve filmler hakkında kapsamlı bilgi edinmel
 - SQLite ile yerel veritabanı işlemlerini kullandım.
 - Uygulama içi dosyalama işlemleri adına bir alan geliştirdim.
 
-- Youtube Videeosu;
-https://youtu.be/52CNG5JzQhQ?si=4Kpp0NI8MtJNapSL
+- Youtube Videeosu: https://youtu.be/52CNG5JzQhQ?si=4Kpp0NI8MtJNapSL
