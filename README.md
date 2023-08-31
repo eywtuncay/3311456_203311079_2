@@ -1,16 +1,8 @@
-# film_bilgi
+# Dizi Film Etkileşim
 
-A new Flutter project.
+![Ekran Alıntısı](https://github.com/eywtuncay/Dizi_Film_Etkilesim/assets/90053356/fc25a196-8da8-496f-8052-7fc1aeeb88f6)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
